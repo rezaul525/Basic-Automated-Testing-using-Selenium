@@ -1,9 +1,11 @@
 ##Web Automation testing By Selenium
 
 ## Prerequisite:
-1. Insatl Selenium
-2. Gradle Environment Set-up
-
+1. JDK-11
+2. Insatll Selenium
+3. Gradle Environment Set-up
+   
+   
 # How to run
 1. Open your Terminal Type ```gradle clean test```
 
